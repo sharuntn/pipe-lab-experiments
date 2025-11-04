@@ -9,3 +9,7 @@ This repository contains C programs demonstrating inter-process communication (I
 - Data persistence characteristics
 
 All programs were tested on Kali Linux using GCC.
+ **Files in this Repository**
+half_duplex_pipe.c – Basic half-duplex communication using pipe
+non_blocking_send.c – Non-blocking send and blocking receive implementation
+order_preserve.c - FIFO order preserving in pipe
